@@ -1,9 +1,12 @@
 # Interesting Apache Project for Data Scientists
 
 [Spark - Lightning-fast unified analytics engine](https://spark.apache.org/)
+
 [Kafka - Distributed streaming platform](https://kafka.apache.org/)
-[Zeppelin(http://zeppelin.apache.org/)
-[Hadoop]()
+
+[Zeppelin - Web-based notebook that enables data-driven, interactive data analytics and collaborative documents](http://zeppelin.apache.org/)
+
+[Hadoop - Framework that allows for the distributed processing of large data sets across clusters of computers](https://hadoop.apache.org/)
 
 
 You can use the [editor on GitHub](https://github.com/apache-toolbox/home/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
